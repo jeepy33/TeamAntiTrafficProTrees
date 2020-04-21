@@ -12,3 +12,6 @@ Jagr Krtanjek
 Traffic Signs: https://data.wprdc.org/dataset/city-traffic-signs
 Trees: https://data.wprdc.org/dataset/city-trees
 Playing Fields: https://data.wprdc.org/dataset/playing-fields
+
+# Conclusion:
+In conclusion Squirrel Hill South, was detirmined to be the "best" neighborhood according to our metrics. Central Oakland is the "worst."
